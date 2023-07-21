@@ -7,7 +7,7 @@ https://github.com/grace-qian/J124/assets/108700172/bfffeab6-5b5d-4863-8398-553c
 
 <h2>Skills:</h2> 
 <h3>- Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript</h3>
-<h3>- Software: Tableau, SolidWorks, SQL Server Management System (SSMS)</h3>
+<h3>- Software: Tableau, SolidWorks (CAD), SQL Server Management System (SSMS)</h3>
 
 
 <h2>Professional Experiences:</h2>
@@ -22,6 +22,5 @@ https://github.com/grace-qian/J124/assets/108700172/bfffeab6-5b5d-4863-8398-553c
 
 
 <h2>Hobbies:</h2>
-<h3>- Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript</h3>
-<h3>- Software: Tableau, SolidWorks, SQL Server Management System (SSMS)</h3>
+<h3>In my free time, I enjoy playing volleyball (Best Defensive Player at school for 3 years in a row!), running, and writing (especially about sports!)</h3>
 
