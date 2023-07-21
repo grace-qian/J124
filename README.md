@@ -5,8 +5,8 @@ Intro to Data Journalism Markdown practice resume
 
 
 <h2>Skills:</h2>
-* Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript
-* Software: Tableau, SolidWorks, SQL Server Management System (SSMS)
+- Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript
+- Software: Tableau, SolidWorks, SQL Server Management System (SSMS)
 
 <h2>Professional Experiences:</h2>
 
