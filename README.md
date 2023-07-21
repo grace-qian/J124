@@ -2,7 +2,8 @@
 Intro to Data Journalism Markdown practice resume
 <h1>Grace Qian</h1>
 <h2>Hi everyone! I am currently a rising junior at UC Berkeley majoring in Industrial Engineering and Operations Research (IEOR) and minoring in Data Science. I am an aspiring data scientist with an interest in statistics specifically.</h2>
-![image](https://github.com/grace-qian/J124/assets/108700172/30805bd9-31a9-454b-98f4-81df3fc024ae)
+![Grace Profile Pic](https://github.com/grace-qian/J124/assets/108700172/4f1f75e4-b254-434f-91de-c502b6e69627)
+
 
 <h2>Skills:</h2>
 <h3>- Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript</h3>
