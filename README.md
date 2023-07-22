@@ -11,14 +11,14 @@ Intro to Data Journalism Markdown practice resume
 
 
 <h2>Professional Experiences:</h2>
-<h3></h3>
-<h4></h4>
 
-<h3></h3>
-<h4></h4>
 
-<h3></h3>
-<h4></h4>
+| Employer | Title | Job Description | Dates |
+| :---:   | :---: | :---: | :---: |
+| Millennium Space Systems, A Boeing Company | Operations Research Intern | Redesigned Supplier Scorecard in Tableau to display on-time delivery (OTD) percentage and assigned grades to vendors as well as a new tab to rank vendors by commodity code; created report to quantify cost and lead time (LT) impact on supply chain due to ECNs and design modifications | 6/2023 - Present |
+| Path on Arms Trade (PATH) | Undergraduate Researcher | Utilized Tableau and code collaboration techniques to analyze and present my findings on US Civil War imports and exports, as well as changes in various currency values from 1835 - 1910   | 1/2023 - 5/2023 |
+| Dado and Maria Banatao Center for GLOBE | Peer Advisor   | Coordinate College of Engineering social events for international scholars hosting 100+ attendees; promote GLOBE programs through publishing WordPress articles and social media updates | 8/2021 - Present |
+
 
 
 <h2>Hobbies:</h2>
