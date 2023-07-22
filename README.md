@@ -1,9 +1,9 @@
 # J124
-Intro to Data Journalism Markdown practice resume
+Intro to Data Journalism Markdown Practice Resume
 <h1>Grace Qian</h1>
 <h2>Hi everyone! I am currently a rising junior at UC Berkeley majoring in Industrial Engineering and Operations Research (IEOR) and minoring in Data Science. I am an aspiring data scientist with an interest in statistics specifically.</h2>
 
-[![Grace-Profile-Pic.jpg](https://i.postimg.cc/FRzm0VVx/Grace-Profile-Pic.jpg)](https://postimg.cc/5HhZVvGH)
+[![Grace-Profile-Pic.jpg](https://i.postimg.cc/h4HsW46D/Grace-Profile-Pic.jpg)](https://postimg.cc/mhyC74TJ)
 
 <h2>Skills:</h2> 
 <h3>- Coding: Python, SQL, MATLAB, HTML, CSS, JavaScript</h3>
